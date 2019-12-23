@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code of Merit</title>
+    <link>https://codeofmerit.org/</link>
+    <description>Recent content on Code of Merit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://codeofmerit.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code of Merit</title>
+      <link>https://codeofmerit.org/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeofmerit.org/code/</guid>
+      <description>The project creators, lead developers, core team, constitute the managing members of the project and have final say in every decision of the project, technical or otherwise, including overruling previous decisions. There are no limitations to this decisional power. Contributions are an expected result of your membership on the project. Don&#39;t expect others to do your work or help you with your work forever. All members have the same opportunities to seek any challenge they want within the project.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://codeofmerit.org/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeofmerit.org/license/</guid>
+      <description>The Code of Merit, originally created by Roberto Rosario, is released under the Creative Commons Attribution 4.0 International Public License (CC-BY 4.0 for short).
+Unless otherwise noted, all content of this website is released under the same license.
+CC-BY 4.0 is:
+ A Free Culture License. A free software license, although usage for software programs is not advised.  In short, if some work is under CC-BY you can share it in any medium or format and adapt it for any purpose, even commercial, as long as you follow the license terms, which include providing an appropriate attribution.</description>
+    </item>
+    
+  </channel>
+</rss>
