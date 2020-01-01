@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Adopters</title>
+      <link>https://codeofmerit.org/adopters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeofmerit.org/adopters/</guid>
+      <description>The following projects adopt the Code of Merit:
+ Apprentice Bot - Transcribers Of Reddit awesome-django bestbuy-php Calculadora bin Cropper for Rails EZ-WifiBroadcast faker.js go-api go-api-router go-cache go-pipl go-sanitize Juego del ahorcado LaTeX.js LCDproc log4net.Appender.Splunk Microsoft.Extensions.Logging.Splunk NYU Bobst Library Reservation Automator OAuthLib’s open-paperless PASSY PHP Bencode Encoder/Decoder Project Importer Risk Management Module rivetsjs-stdlib RxDock TamedRespawn The Unofficial Marvel PHP Library Transcribers Of Reddit (core) xlsx-parser  </description>
+    </item>
+    
+    <item>
       <title>Code of Merit</title>
       <link>https://codeofmerit.org/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
