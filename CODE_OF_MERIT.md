@@ -30,4 +30,4 @@ overall contributions to and time on the project -- seniority must be earned.
 
 9. Participation in this project equates to agreement to this Code of Conduct.
 
-This document is adapted from the Code of Merit v1 <https://codeofmerit.org>.
+This document is adapted from the Code of Merit v1 <<https://codeofmerit.org>>.
