@@ -11,4 +11,4 @@ A meritocratic approach to project management and discussions. This document out
 
 ## Derivative work
 If you create a derivative work, please add the following notice at the footer.
-> This document is adapted from the Code of Merit v1 <https://codeofmerit.org>.
+> This document is adapted from the Code of Merit v1 <<https://codeofmerit.org>>.
